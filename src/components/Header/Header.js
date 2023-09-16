@@ -7,6 +7,8 @@ import VisuallyHidden from '@/components/VisuallyHidden';
 
 import styles from './Header.module.css';
 
+// This is a simple comment
+
 function Header({ theme, className, ...delegated }) {
   return (
     <header
